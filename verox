@@ -1,23 +1,11 @@
-§e§Lthe V4.0 update has finally been released!
-§b§l This is a small list of what has been updated:
-* Added WEB captcha bypass
-* Added a click-through for objects (for food for example)
-* Updated ChatTrigger now it's just Trigger
-* Updated clickgui on E
-* Updated the click on the right shift
-* It is now more convenient to bind cheat modules
-* Added AUTO modules to cheats
-* Added AUTO modules to bots
-* Added parts to the menu
-* Added a mini music player at startup
---- It turns off in Appearance in the main menu ---
-* 80% of all bot modules have been updated
-* FT captcha bypass improved by 30%
-* BotRemover has been replaced by the BotStopper module
-* Minor crawls have been added and improved
-* Added SpamInPM module (Spamming players in bos)
-* Added message modifiers for bots
-* Added modules to Actions
-* The plugin system has been updated (Not tested)
+§e§lFinally, the V5 update is released!
+§b§lHere is a short list of what has been updated:
+* Reorganized bot modules
+* Block-based captcha bypass - BotsBlockBypass
+* Captcha bypass with example (on different lines) - DaunCaptchaBypass
+* 2 Bossbar captcha bypasses
+* Captcha bypass on glass panels
+* Added minor cheat modules
+* Updated plugin system
 ---------------------------------------------------
-Enjoy using it | LineHack Client by Ghaith
+Enjoy using it! | LineHack Client by Ghaith
