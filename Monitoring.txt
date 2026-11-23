@@ -1,0 +1,8 @@
+40.223.14.197:25565 - Sonar_Antibot
+40.223.15.68:25565 - Sonar_Antibot
+gamertee.net - Sonar_Antibot
+188.245.238.107:25565 - Anarchy, Creative
+3b3t.org - Anarchy, Survival
+185.219.84.43:22010 - Schoolserver, admin_schoolboy
+135.181.170.88:25704 - AuthMe_Antibot
+top.serverjoin.ru:25565 - Sonar_Antibot
